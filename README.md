@@ -1,2 +1,2 @@
 # pythonStudy
-Repositorio para estudos de python
+Repositorio para estudos de python since 2017
